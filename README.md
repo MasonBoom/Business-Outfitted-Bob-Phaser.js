@@ -11,4 +11,4 @@ This project was developed with the following technologies:
 
 The start screen should look like this on your local machine
 
-![i]()
+![i](https://github.com/MasonBoom/Business-Outfitted-Bob-Phaser.js/blob/main/Business%20Outfitted%20Bob%20Game%20-%20Google%20Chrome%202_5_2022%208_41_24%20PM.png?raw=true)
